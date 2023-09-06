@@ -1,0 +1,14 @@
+.input-box-card{
+  transition: 1s;
+}
+
+@media (width <=450px) {
+  .input-box-card {
+    transform: scale(0.8);
+  }
+}
+@media (width <=435px) {
+  .input-box-card {
+    transform: scale(0.7);
+  }
+}
